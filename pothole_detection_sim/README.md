@@ -59,9 +59,13 @@ in any browser.
 ## ⚡ Command-Line Options
 Flag	Description	Default
 --kml	Path to your KML file	Directions.kml
+
 --speed	Vehicle speed in m/s	6
+
 --potholes	Number of random potholes	12
+
 --warning	Warning distance in meters	80
+
 --out	Output HTML file name	interactive_route.html
 
 ---
