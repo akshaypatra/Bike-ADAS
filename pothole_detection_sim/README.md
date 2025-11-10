@@ -11,10 +11,15 @@ It’s designed as a component for the Bike-ADAS project to demonstrate route aw
 ## 🗺️ Features
 
 ✅ Parse a real route from .kml (Google Maps export)
+
 ✅ Place random potholes along the actual road path
+
 ✅ Animate a moving car at a configurable speed (default 6 m/s)
+
 ✅ Show live pothole warnings with distance updates
+
 ✅ Interactive map output (interactive_route.html) using Leaflet.js
+
 ✅ Works offline — no external APIs needed
 
 ---
