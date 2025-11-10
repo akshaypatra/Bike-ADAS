@@ -58,6 +58,7 @@ in any browser.
 
 ## ⚡ Command-Line Options
 Flag	Description	Default
+
 --kml	Path to your KML file	Directions.kml
 
 --speed	Vehicle speed in m/s	6
