@@ -1,4 +1,4 @@
-##📘 Pothole Detection Simulation
+## 📘 Pothole Detection Simulation
 
 
 <h1 align="center">🚗 <strong>Overview<strong> </h1>
@@ -8,7 +8,7 @@ It’s designed as a component for the Bike-ADAS project to demonstrate route aw
 
 ---
 
-##🗺️ Features
+## 🗺️ Features
 
 ✅ Parse a real route from .kml (Google Maps export)
 ✅ Place random potholes along the actual road path
@@ -19,7 +19,7 @@ It’s designed as a component for the Bike-ADAS project to demonstrate route aw
 
 ---
 
-##🧩 Prerequisites
+## 🧩 Prerequisites
 
 -Make sure you have the following libraries installed:
 
@@ -34,7 +34,7 @@ pip install lxml
 ```
 ---
 
-##⚙️ Usage
+## ⚙️ Usage
 
 -Place your route .kml file in the module folder (e.g. route.kml).
 
@@ -51,7 +51,7 @@ in any browser.
 
 ---
 
-##⚡ Command-Line Options
+## ⚡ Command-Line Options
 Flag	Description	Default
 --kml	Path to your KML file	Directions.kml
 --speed	Vehicle speed in m/s	6
@@ -67,7 +67,7 @@ python main.py --kml my_route.kml --potholes 15 --warning 100
 ```
 ---
 
-##🧠 Internals
+## 🧠 Internals
 
 **The KML path is parsed using fastkml and converted to coordinate points.**
 
@@ -79,7 +79,7 @@ python main.py --kml my_route.kml --potholes 15 --warning 100
 
 ---
 
-##📂 Project Structure
+## 📂 Project Structure
 ```
 pothole_detection_sim/
 │
@@ -90,7 +90,7 @@ pothole_detection_sim/
 ```
 ---
 
-##🧑‍💻 Contributors
+## 🧑‍💻 Contributors
 
 @Mo8Faiz
 
