@@ -98,6 +98,8 @@ pothole_detection_sim/
 ├── interactive_route.html
 └── README.md
 ```
+**NOTE: You don't need to create an interactive_route.html file explicitly , after running the main.py it will be added automatically in your project folder.
+
 ---
 
 ## 🧑‍💻 Contributors
