@@ -5,7 +5,7 @@ import cv2
 model = YOLO("yolov8n.pt")  
 
 
-cap = cv2.VideoCapture("./videos/RearCameraFootage2.mov")
+cap = cv2.VideoCapture("./videos/RearCameraFootage1.mov")
 
 while True:
     ret, frame = cap.read()
